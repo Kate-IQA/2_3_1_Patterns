@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/156x4do3qrjbo6wg?svg=true)](https://ci.appveyor.com/project/Kate-IQA/2-3-1-patterns)
